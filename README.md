@@ -10,9 +10,11 @@
 
 ## **Hướng dẫn cài đặt Game**
 
-- *Trước tiên hãy đảm bảo máy tính của bạn đã có thư viện SDL2 ( gồm cả SDL_image, SDL_mixer và SDL_ttf ).*
+- *Trước tiên hãy đảm bảo máy tính của bạn đã cài Mingw và thư viện SDL2 ( gồm cả SDL_image, SDL_mixer và SDL_ttf ).*
 
-### **Cài đặt thư viện SDL**
+### **Cài đặt thư viện SDL và Mingw**
+
+- Hướng dẫn cài MingW: https://www.geeksforgeeks.org/installing-mingw-tools-for-c-c-and-changing-environment-variable/amp/
 
 - Hướng dẫn cài SDL: https://lazyfoo.net/tutorials/SDL/01_hello_SDL/index.php
 - Hướng dẫn cài SDL_Image: https://lazyfoo.net/tutorials/SDL/06_extension_libraries_and_loading_other_image_formats/index.php
